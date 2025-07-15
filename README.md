@@ -1,18 +1,19 @@
-## Getting Started
+#Este repositório contém o código e o diagrama UML desenvolvidos como parte de uma atividade prática proposta pela plataforma DIO.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+##O objetivo do desafio é colocar em prática os conceitos de:
 
-## Folder Structure
+Análise de requisitos
 
-The workspace contains two folders by default, where:
+Programação Orientada a Objetos (POO) em Java
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Modelagem UML (Diagrama de Classes)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Uso de interfaces e implementação de classes concretas
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+##A proposta consiste em representar os papéis do iPhone como:
 
-## Dependency Management
+🎵 Reprodutor Musical
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+📞 Aparelho Telefônico
+
+🌐 Navegador de Internet
